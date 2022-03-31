@@ -120,7 +120,7 @@ See the https://github.com/mstatt/webpagescraper a full list of proposed feature
 <!-- LICENSE -->
 ## License
 
-[![Licence][license-shield]][license-url]
+![](https://img.shields.io/badge/License-MIT-blue)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
