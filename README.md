@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mstatt/">
+  <a href="https://github.com/mstatt/webpagescraper">
     <img src="assets/falcons-logo2.png" alt="Logo" >
   </a>
 
@@ -33,7 +33,7 @@ WebPage scraper</h3>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Emotion Detection Application by Falcons.ai
+## About The Web Scraper Application by Falcons.ai
 
 In this project I wanted to provide a quick and easy python web scraper for those that have ran into issues trying this from other tutorials.
 
@@ -111,7 +111,7 @@ In the scrapes directory you should see a file titled something like "6a314ebb-a
 
 
 
-See the https://github.com/mstatt/ a full list of proposed features (and known issues).
+See the https://github.com/mstatt/webpagescraper a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ See the https://github.com/mstatt/ a full list of proposed features (and known i
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/mstatt/]
+Project Link: [https://github.com/mstatt/webpagescraper]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
